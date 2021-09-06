@@ -16,7 +16,7 @@ define("DB_NAME", "jobboard_db");
 ---
 
 <p align="center">
-<img alt="Logo" src="JobBoard/src/assets/home.png"/>
+<img alt="home" src="assets/home.png"/>
 <br/>
 <br/>
 </p>
