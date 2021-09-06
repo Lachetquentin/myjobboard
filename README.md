@@ -26,7 +26,19 @@ define("DB_NAME", "jobboard_db");
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="php" width="26px" src="https://s1.qwant.com/thumbr/0x0/0/a/36cbd22be57a96cc4162a22d532e02875ccec6cdf2cc225425d5d7af287212/php-icon.png?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fgraphics-vibe%2Fdeveloper%2F256%2Fphp-icon.png&q=0&b=1&p=0&a=0" />
+<br/>
+
 <img align="left" alt="MySQL" width="50px" src="https://s2.qwant.com/thumbr/700x0/5/9/777cc820febb2cbfd39635eb409d3ec04ce5a3b8ac5c967490aa8364759119/1920px-Logo_MySQL.svg.png?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2F1%2F1f%2FLogo_MySQL.svg%2F1920px-Logo_MySQL.svg.png&q=0&b=1&p=0&a=0" />
+<br/>
+<h3>EasyPHP DevServer 14.1 VC11</h3>
+<br/>
+<h3>PHP 5.5.8</h3>
+<br/>
+<h3>MySQL 5.6.15</h3>
+<br/>
+<h3>Apache 2.4.7</h3>
+<br/>
+<h3>PHPMyAdmin 4.1.4</h3>
 <br/>
 
 ---
